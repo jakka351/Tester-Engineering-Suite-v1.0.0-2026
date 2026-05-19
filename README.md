@@ -1,9 +1,9 @@
 
-<img width="1800" height="600" alt="tester_engineering_suite_logo" src="https://github.com/user-attachments/assets/d07f12f1-7f2f-44e4-acc3-cb61014444eb" />
-
 <img width="2172" height="724" alt="tester engineering" src="https://github.com/user-attachments/assets/9dd67f29-c6ba-43dd-b5e4-712f04a0a3f5" />
 
 https://tester.engineering
+
+
   
 <img width="1920" height="1042" alt="signal-2026-03-08-10-04-14-809" src="https://github.com/user-attachments/assets/d489036e-a5b2-4b7d-b171-275cd1dcdfcc" />
 
